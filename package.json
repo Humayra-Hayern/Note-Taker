@@ -1,14 +1,24 @@
 {
-    "name": "note-taker",
-    "version": "1.0.0",
-    "description": "",
-    "main": "server.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "express": "^4.16.4"
-    }
-  }
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "An application using Express.js back end that can be used to write and save notes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "uniqid": "^5.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Humayra-Hayern/Note-Taker"
+  },
+  "bugs": {
+    "url": "https://github.com/Humayra-Hayern/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/Humayra-Hayern/Note-Taker#readme"
+}
