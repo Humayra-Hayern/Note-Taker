@@ -30,6 +30,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## Appearance
+The image below displays the website's appearance and functionality.
+
 ![note taker](https://user-images.githubusercontent.com/95111780/178125999-71d471f2-1b08-4d39-a4ce-3c9d7d8348ee.PNG)
 
 
